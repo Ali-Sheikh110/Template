@@ -1,0 +1,175 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Commerical</title>
+    <link rel="icon" href="images/icon.png">
+    <link rel="stylesheet" href="temp4.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="subcontainer">
+            <header class="mainHeader">
+                <h1>
+                    Commerical
+                </h1>
+                Design By Ali
+            </header>
+            <nav>
+                <ul>
+                    <a href="#">
+                        <li>Home</li>
+                    </a>
+                    <a href="#">
+                        <li>Blog</li>
+                    </a>
+                    <a href="#">
+                        <li>Photos</li>
+                    </a>
+                    <a href="#">
+                        <li>About</li>
+                    </a>
+                    <a href="#">
+                        <li>Links</li>
+                    </a>
+                    <a href="#">
+                        <li>Contact</li>
+                    </a>
+
+                </ul>
+            </nav>
+            <figure>
+                <img src="pics01.jpg" alt="Commerical" class="slider">
+                <img src="building 2.jpg" alt="Commerical" class="slider">
+                <img src="building3.jpg" alt="Commerical" class="slider">
+ 
+            </figure>
+        </div>
+
+        <div class="main">
+            <article>
+                <header>
+                    <h2>Welcome to commercial</h2>
+                    <p>Posted By Ali on <time datetime="2020-5-29">29 May-2020</time></p>
+                </header>
+                <section>
+                    <p>This is <b>Commercial</b>, a free, fully standards-compliant CSS template designed by
+                        <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.
+                        The picture in this template is from
+                        <a href="http://fotogrph.com/">Fotogrph</a>.
+                        The gallery slider and popup gallery used in this template is powered by
+                        <a href="http://n33.co/">Poptrox</a> and
+                        <a href="http://n33.co/">Slidertron</a>.
+                        Dropdown menu is powered by <a href="http://n33.co/">Dropotron</a>.
+                        This free template is released under the
+                        <a href="http://templated.co/license">Creative Commons Attribution</a>
+                        license, so you’re pretty much free to do whatever you want with it
+                        (even use it commercially) provided you give us credit for it. Have fun :)</p>
+                        <br><br>
+                    <p>Sed lacus. Donec lectus. Nullam pretium nibh ut turpis.
+                        Nam bibendum. In nulla tortor, elementum ipsum.
+                        Proin imperdiet est. Phasellus dapibus semper urna.
+                        Pellentesque ornare, orci in felis. Donec ut ante. In id eros.
+                        Suspendisse lacus turpis, cursus egestas at sem.</p>
+
+                </section>
+            </article>
+
+            <article>
+
+                <header>
+                    <h2>Lorem ipsum sed aliquam</h2>
+                    <p>Posted By Ali on <time datetime="2020-5-29">29 May-2020</time></p>
+                </header>
+                <section>
+                    <p>Sed lacus. Donec lectus. Nullam pretium nibh ut turpis.
+                        Nam bibendum. In nulla tortor, elementum vel, tempor at, varius non, purus.
+                        Mauris vitae nisl nec metus placerat consectetuer. Donec ipsum.
+                        Proin imperdiet est.
+                        Phasellus <a href="#">dapibus semper urna</a>.
+                        Pellentesque ornare, consectetuer nisl felis ac diam.
+                        Sed lacus. Donec lectus. Nullam pretium nibh ut turpis. Nam bibendum.
+                        Mauris vitae nisl nec metus placerat consectetuer. </p>
+
+                </section>
+            </article>
+
+            <article>
+
+                <header>
+                    <h2>Phasellus pellentesque turpis</h2>
+                    <p>Posted By Ali on <time datetime="2020-5-29">29 May-2020</time></p>
+
+                </header>
+                <section>
+                    <p>Sed lacus. Donec lectus. Nullam pretium nibh ut turpis.
+                        Nam bibendum. In nulla tortor, elementum vel, tempor at, varius non, purus.
+                        Mauris vitae nisl nec metus placerat consectetuer. Donec ipsum.
+                        Proin imperdiet est. Pellentesque ornare,
+                        `orci in consectetuer hendrerit, urna elit eleifend nunc.
+                        Donec ipsum. Proin imperdiet est. Pellentesque ornare,
+                        orci in consectetuer hendrerit, urna elit eleifend nunc.</p>
+
+                </section>
+
+            </article>
+        </div>
+
+        <aside>
+            <header>
+                <h2>Aliquam tempus</h2>
+            </header>
+            <section>
+                <p>Mauris vitae nisl nec metus placerat perdiet est.
+                    Phasellus dapibus semper consectetuer hendrerit.</p>
+
+            </section>
+
+            <header>
+                <h2>Categories</h2>
+            </header>
+            <section>
+                <ul>
+                    <li><a href="#">Aliquam libero</a></li>
+                    <li><a href="#">Consectetuer adipiscing elit</a></li>
+                    <li><a href="#">Suspendisse iaculis mauris</a></li>
+                    <li><a href="#">Urnanet non molestie semper</a></li>
+                    <li><a href="#">Proin gravida orci porttitor</a></li>
+                </ul>
+            </section>
+            <header>
+                <h2>Blogroll</h2>
+            </header>
+            <section>
+                <ul>
+                    <li><a href="#">Aliquam libero</a></li>
+                    <li><a href="#">Suspendisse iaculis mauris</a></li>
+                    <li><a href="#">Urnanet non molestie semper</a></li>
+                    <li><a href="#">Proin gravida orci porttitor</a></li>
+                </ul>
+            </section>
+            <header>
+                <h2>Archives</h2>
+            </header>
+            <section>
+                <ul>
+                    <li><a href="#">Aliquam libero</a></li>
+                    <li><a href="#">Consectetuer adipiscing elit</a></li>
+                    <li><a href="#">Suspendisse iaculis mauris</a></li>
+                    <li><a href="#">Urnanet non molestie semper</a></li>
+                    <li><a href="#">Proin gravida orci porttitor</a></li>
+                </ul>
+            </section>
+        </aside>
+        <div class="clearfix"></div>
+
+        <footer>
+            Ali Co || Copyright 2020 © All Rights Are Reserved 
+        </footer>
+    </div>
+    <script src="temp4.js"></script>
+</body>
+
+</html>
